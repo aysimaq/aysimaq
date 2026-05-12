@@ -1,5 +1,4 @@
 # 👩‍💻 Aysima Görkan
-
 ### Information Security Technology Student | Junior Developer & Cybersecurity Enthusiast
 
 I am an Information Security Technology student at Ostim Technical University. The security of complex systems, software development processes, and interactive storytelling (Visual Novels) are at the core of my interests.
