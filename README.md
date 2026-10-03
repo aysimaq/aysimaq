@@ -7,7 +7,7 @@ I am an Information Security Technology student at Ostim Technical University. T
 
 ### 🚀 What I’m Currently Working On
 
-* **RENPY PROJECT:** Developing an interactive visual novel project using the Ren'Py engine and Python.
+
 * **Cybersecurity:** Practicing network security and penetration testing in Kali Linux environments using tools such as Hashcat and Metasploit.
 * **Development:** Building desktop applications with PyQt5 and creating projects focused on encryption algorithms like AES and SHA-256.
 
